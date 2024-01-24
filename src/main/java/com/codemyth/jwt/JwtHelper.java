@@ -11,6 +11,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 
+/**
+ * Jwt Helper class.
+ */
 @Component
 public class JwtHelper {
     //requirement :
